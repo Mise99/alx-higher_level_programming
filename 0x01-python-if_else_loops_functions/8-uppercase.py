@@ -7,8 +7,3 @@ def uppercase(str):
             num = 0
         print("{:c}".format(ord(str[i]) - num), end='')
     print()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
